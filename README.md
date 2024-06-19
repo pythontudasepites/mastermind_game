@@ -14,7 +14,9 @@ Ha az alapértékektől eltérünk, akkor az *Új játék* gomb megnyomásával 
 aktuális beállításoknak megfelelően fog megjelenni és működni.
 
 A játék indítása után megjelenő felület képernyőképét mutatja az alábbi ábra bal oldala. Középen egy sikeres megfejtéssel végződő játék képe látható. Ennek alsó részén megfigyelhető, hogy a választógombok nincsenek bekapcsolt állapotban, ami azt jelenti, hogy az elrejtett színek csak egyszer fordulhatnak elő, és az üres pozíció nem szerepelhet közöttük.  Ezzel szemben, az ábra jobb oldali képernyőképe egy olyan játékmenet sikertelen végét mutatja, ahol a rejtett színek között lehet ismétlődés és az üres pozíció is szerepelhet.
-<img src="https://github.com/pythontudasepites/mastermind_game/blob/main/mastermind_screenshot_1.jpg" width="720" height="420">
+
+<img src="https://github.com/pythontudasepites/mastermind_game/blob/main/mastermind_screenshot_1.jpg" width="623" height="420">
 
 A következő ábra bal oldala egy csökkentett tippsorokkal indított játékot mutat, a jobb oldal pedig azt a hibaüzenetet, amikor a sorok száma a megengedett tartományon kívüli értékre lett megadva.
-<img src="https://github.com/pythontudasepites/mastermind_game/blob/main/mastermind_screenshot_2.jpg" width="720" height="420">
+
+<img src="https://github.com/pythontudasepites/mastermind_game/blob/main/mastermind_screenshot_2.jpg" width="420" height="354">
