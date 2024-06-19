@@ -12,7 +12,8 @@
 A *Tipp Ellenőrzése* gomb alatt látható részben lehet a játék megkezdése előtt beállítani egy 1 és 12 közötti számmal, hogy hány sor áll rendelkezésre a tippekhez, valamint azt, hogy az elrejtett színekben lehet-e ismétlődés és szerepelhet-e elrejtettként az üres pozíció. Alapesetben a sorok száma nyolc és egyik opció sincs megengedve.
 Ha az alapértékektől eltérünk, akkor az *Új játék* gomb megnyomásával kell indítani a játékot, ami már az aktuális beállításoknak megfelelően fog megjelenni és működni.
 
-A játék indításához a mastermind_gui_app.py fájlt kell szkriptként futtatni. 
+A játék indításához a mastermind_gui_app.py fájlt kell szkriptként futtatni.
+
 A működéshez Python 3.9+ verzió szükséges.
 
 A játék indítása után megjelenő felület képernyőképét mutatja az alábbi ábra bal oldala. Középen egy sikeres megfejtéssel végződő játék képe látható. Ennek alsó részén megfigyelhető, hogy a választógombok nincsenek bekapcsolt állapotban, ami azt jelenti, hogy az elrejtett színek csak egyszer fordulhatnak elő, és az üres pozíció nem szerepelhet közöttük.  Ezzel szemben, az ábra jobb oldali képernyőképe egy olyan játékmenet sikertelen végét mutatja, ahol a rejtett színek között lehet ismétlődés és az üres pozíció is szerepelhet.
